@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+dnp3-python
+sqlalchemy

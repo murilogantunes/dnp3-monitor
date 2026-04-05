@@ -49,7 +49,7 @@ Grafana Dashboard      ← visualizes live data
 
 ### Run the project
 ```bash
-git clone https://github.com/YOUR_USERNAME/dnp3-monitor.git
+git clone https://github.com/murilogantunes/dnp3-monitor.git
 cd dnp3-monitor
 docker compose up -d
 ```

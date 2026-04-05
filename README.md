@@ -1,6 +1,5 @@
-# DNP3 Monitor
 
-![CI Pipeline](https://github.com/murileera/dnp3-monitor/actions/workflows/ci.yml/badge.svg)
+![CI Pipeline](https://github.com/murilogantunes/dnp3-monitor/actions/workflows/ci.yml/badge.svg)
 
 A DNP3 device monitoring system built with Python, FastAPI, SQLite, Docker, and Grafana.
 
